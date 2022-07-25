@@ -1,7 +1,7 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+You can run:
 
 ### `yarn start`
 
